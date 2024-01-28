@@ -29,7 +29,7 @@ public class FindMissingNumber {
         // Solution 1: using cyclic sort.
         System.out.println(missingNumberUsingCyclicSort(a));
 
-        //Solution 2: Using Sum of numbers
+        //Solution 2 (Preferred): Using Sum of numbers
         System.out.println(missingNumberUsingSum(a));
     }
 
